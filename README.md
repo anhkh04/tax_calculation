@@ -18,12 +18,15 @@ This is a simple C program designed to calculate personal income tax based on yo
 2. Navigate to the directory containing the source code.
 3. Compile the program using the following command:
 
-   ```bash
-   gcc -o tax_calculator main.c
-  *Note: Replace `main.c` with the actual name of your source file if it's different.*
+```bash
+gcc -o tax_calculator main.c
+```
+*Note: Replace `main.c` with the actual name of your source file if it's different.*
   
 ### 3.3 Running the program
 After compilation, run the executable with: 
 
-   ```bash
-   ./tax_calculator
+```bash
+./tax_calculator
+```
+Follow the on-screen instructions to input your monthly income, and the program will output the calculated tax. Enjoy calcculating your tax!
